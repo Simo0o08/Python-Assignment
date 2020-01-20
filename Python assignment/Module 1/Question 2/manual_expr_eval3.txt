@@ -1,0 +1,11 @@
+Question 2
+Part c->
+
+a=4.4,b=0.0,c=4.2,y=3.0
+ans=c+a*y*y/b
+ans=c+(((a*y)*y)/b)
+ans=4.2+(((4.4*3.0)*3.0)/0.0)
+ans=4.2+((13.2)*3.0)/0.0)
+ans=4.2+(39.6/0.0)
+
+This last statement will throw an error of ZeroDivisionError  because of division in float by 0.0

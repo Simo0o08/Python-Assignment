@@ -1,0 +1,7 @@
+Question 3
+
+r=s=t=5
+avg=r+s+t/3
+avg=5+5+(5/3)
+avg=5+5+1.667
+avg=11.667
